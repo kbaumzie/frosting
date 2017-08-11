@@ -1,0 +1,94 @@
+/******************************
+            COLOR
+******************************/
+.fr-light-grey {
+  color: #000 !important;
+  background-color: #F1F1F1 !important;
+}
+
+.fr-dark {
+
+}
+
+.fr-pure-white {
+  background-color: #FFF !important;
+}
+
+.fr-strawberry {
+
+}
+
+.fr-strawberry-creme {
+  background-color: #f18973;
+}
+
+.fr-lemoncello {
+  background-color: #ffcc5c;
+}
+
+.fr-lemon-meringue {
+  background-color: #ffef96;
+}
+
+.fr-mint {
+
+}
+
+.fr-plum {
+
+}
+
+.fr-orange-creamsicle {
+
+}
+
+.fr-creme-brulee {
+
+}
+
+.fr-chocolate-chip {
+  background-color: #4f3222;
+}
+
+.fr-vanilla {
+
+}
+
+.fr-vanilla-bean {
+
+}
+
+.fr-raspberry {
+  background-color: #c94c4c;
+}
+
+.fr-blueberry {
+  background-color: #36486b;
+}
+
+.fr-cinnamon {
+  background-color: #7a3b2e;
+}
+
+.fr-granny-smith-apple {
+  background-color: #82b74b !important;
+}
+
+.fr-peach-cobbler {
+  background-color: #bd5734;
+}
+
+
+/* TEXT COLORS */
+
+.fr-text-spicy {
+  /* used as danger text: red */
+}
+
+.fr-text-mild {
+  /* used as warning text: orange */
+}
+
+.fr-text-sweet {
+  /* used as success text: green */
+}

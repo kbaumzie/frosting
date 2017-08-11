@@ -1,0 +1,21 @@
+/******************************
+          CONTAINER
+******************************/
+.fr-card {
+  box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12)
+  max-width: 400px;
+}
+
+.fr-container {
+  padding: 0.01em 16px;
+}
+
+.fr-input {
+  padding: 8px;
+  display: block;
+  border: none;
+  width: 100%;
+  background-color: #FFF;
+  user-select: text;
+  cursor: auto;
+}

@@ -1,0 +1,11 @@
+/******************************
+          SPACING
+******************************/
+.fr-padding {
+    padding: 8px 16px !important;
+}
+
+.fr-padding-16 {
+  padding-top: 16px !important;
+  padding-bottom: 16px !important;
+}
