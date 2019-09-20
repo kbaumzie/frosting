@@ -1,0 +1,8 @@
+# don't include dependencies
+node_modules
+
+# don't commit build files
+dist
+
+# don't commit parcel cache files
+.cache/

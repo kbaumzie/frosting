@@ -1,0 +1,24 @@
+{
+  "name": "frosting",
+  "version": "1.0.0",
+  "description": "Every cake needs a little frosting! Add some flair to your project\r by adding some Frosting style.",
+  "main": "dist/index.css",
+  "scripts": {
+    "build": "parcel build index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbaumzie/frosting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbaumzie/frosting/issues"
+  },
+  "homepage": "https://github.com/kbaumzie/frosting#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
